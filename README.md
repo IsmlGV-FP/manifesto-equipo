@@ -1,3 +1,7 @@
+# \# MANIFIESTO OFICIAL DEL EQUIPO
+
+
+
 # \# Manifiesto del Equipo
 
 # 
