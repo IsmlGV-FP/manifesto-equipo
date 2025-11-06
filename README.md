@@ -1,4 +1,5 @@
-# Manifiesto del Equipo v2
+# \# MANIFIESTO OFICIAL DEL EQUIPO
+
 # \# Manifiesto del Equipo
 
 # 
