@@ -1,5 +1,4 @@
 # Manifiesto del Equipo v4
-# \# Manifiesto del Equipo
 
 # 
 
