@@ -1,4 +1,8 @@
-# Manifiesto del Equipo
+# \# Manifiesto del Equipo
 
-* Ismael Gil (Programadora)
-* Usuario 1 (Artista)
+# 
+
+# \* Ismael Gil (Programadora)
+
+# \* Usuario 1 (Artista)
+
