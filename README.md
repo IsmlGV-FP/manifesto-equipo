@@ -1,4 +1,3 @@
-# Manifiesto del Equipo v2
 # \# Manifiesto del Equipo
 
 # 
